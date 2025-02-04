@@ -1,4 +1,5 @@
-https://leocosta1.github.io/instagram-clone/
+*[Live Preview](https://leocosta1.github.io/instagram-clone/)**
+
 
 ## 🖥️ Tech Stack
 **Frontend:**
